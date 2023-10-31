@@ -1,5 +1,13 @@
 {
   "index": "Introduction",
+  "mission": "Mission Statement",
+  "roadmap": "Roadmap",
+  "rewards": "Rewards",
+  "tools": "Tools",
+  "start": "Getting Started",
+  "fqa": "FQA",
+  "troubleshooting": "Troubleshooting",
+  "glossary": "Glossary",
   "about": {
     "title": "About",
     "type": "page"
